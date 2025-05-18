@@ -1,4 +1,5 @@
 #Features of this Currency Converter:
+
 1)Real-time Exchange Rates:
   Fetches current rates from ExchangeRate-API
   Automatic updates with each conversion
@@ -19,6 +20,7 @@
   Proper error handling
 
 #How to Use:
+
 1)Replace YOUR_API_KEY with an actual API key from ExchangeRate-API
 2)Run the program
 3)Select option 1 to convert currency
